@@ -1,0 +1,11 @@
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\obj\Debug\TestTask.pdb
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\EntityFramework.dll
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\EntityFramework.xml
+C:\Users\Shredinger\Desktop\Test\TestTask\TestTask\bin\Debug\EntityFramework.SqlServer.xml
